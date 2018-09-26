@@ -38,7 +38,7 @@
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "bowser": "^1.2.0",
-    "mapbox-gl": "0.47.0",
+    "mapbox-gl": "git://github.com/dcervelli/mapbox-gl-js.git#update-image",
     "math.gl": "^2.0.0",
     "mjolnir.js": "^1.2.1",
     "prop-types": "^15.5.7",
